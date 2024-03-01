@@ -8,12 +8,11 @@ Permalist is a minimalist to-do list web application designed to help you stay o
 * Add, edit, and delete tasks
 * Clean and intuitive user interface
 * Persistent storage using PostgreSQL database
+
 Installation
 Clone the repository:
-
-bash
 Copy code
-git clone https://github.com/yourusername/permalist.git
+`git clone https://github.com/yourusername/permalist.git`
 Install dependencies:
 
 bash
