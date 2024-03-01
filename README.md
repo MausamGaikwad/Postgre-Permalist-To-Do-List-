@@ -13,22 +13,21 @@ Installation
 Clone the repository:
 Copy code
 `git clone [https://github.com/MausamGaikwad/permalist.git](https://github.com/MausamGaikwad/Postgre-Permalist-To-Do-List-)`
+
 Install dependencies:
-
-bash
 Copy code
-npm install
+`npm install`
+
 Set up PostgreSQL database:
+  - Create a PostgreSQL database named permalist.
+  - Update the database connection details in index.js file.
 
-Create a PostgreSQL database named permalist.
-Update the database connection details in index.js file.
 Run the application:
-
-bash
 Copy code
-npm start
+`npm start`
+
 Access the application:
-Open your browser and go to http://localhost:3000.
+Open your browser and go to `http://localhost:3000`.
 
 ## Usage
 Add a new task by typing into the input field and pressing the '+' button.
