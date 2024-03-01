@@ -35,11 +35,11 @@ Open your browser and go to `http://localhost:3000`.
 * Check the checkbox to mark a task as completed.
 * Click on the trash icon to delete a task.
 ## Technologies Used
-Node.js
-Express
-PostgreSQL
-HTML
-CSS
+* Node.js
+* Express
+* PostgreSQL
+* HTML
+* CSS
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
