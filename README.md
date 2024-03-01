@@ -10,23 +10,23 @@ Permalist is a minimalist to-do list web application designed to help you stay o
 * Persistent storage using PostgreSQL database
 
 Installation
-Clone the repository:
+1. Clone the repository:
 Copy code
 `git clone [https://github.com/MausamGaikwad/permalist.git](https://github.com/MausamGaikwad/Postgre-Permalist-To-Do-List-)`
 
-Install dependencies:
+2. Install dependencies:
 Copy code
 `npm install`
 
-Set up PostgreSQL database:
+3. Set up PostgreSQL database:
   - Create a PostgreSQL database named permalist.
   - Update the database connection details in index.js file.
 
-Run the application:
+4. Run the application:
 Copy code
 `npm start`
 
-Access the application:
+5. Access the application:
 Open your browser and go to `http://localhost:3000`.
 
 ## Usage
