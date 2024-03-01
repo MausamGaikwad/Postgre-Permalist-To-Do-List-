@@ -49,6 +49,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Credits
 This project was developed as part of the Udemy course [The Complete 2024 Web Development Bootcamp] by Angela Yu. Special thanks to Angela Yu for her comprehensive teaching and guidance throughout the course.
 
-** Additional Resources
+## Additional Resources
 - Udemy Course: The Complete 2024 Web Development Bootcamp
 - [Angela Yu's Udemy Profile](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=KEEPLEARNING#instructor-1)
