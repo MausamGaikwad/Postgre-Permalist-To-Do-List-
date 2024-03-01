@@ -30,10 +30,10 @@ Copy code
 Open your browser and go to `http://localhost:3000`.
 
 ## Usage
-Add a new task by typing into the input field and pressing the '+' button.
-Click on the pencil icon to edit a task.
-Check the checkbox to mark a task as completed.
-Click on the trash icon to delete a task.
+* Add a new task by typing into the input field and pressing the '+' button.
+* Click on the pencil icon to edit a task.
+* Check the checkbox to mark a task as completed.
+* Click on the trash icon to delete a task.
 ## Technologies Used
 Node.js
 Express
