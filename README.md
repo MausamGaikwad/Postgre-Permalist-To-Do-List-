@@ -12,7 +12,7 @@ Permalist is a minimalist to-do list web application designed to help you stay o
 Installation
 Clone the repository:
 Copy code
-`git clone https://github.com/yourusername/permalist.git`
+`git clone [https://github.com/MausamGaikwad/permalist.git](https://github.com/MausamGaikwad/Postgre-Permalist-To-Do-List-)`
 Install dependencies:
 
 bash
