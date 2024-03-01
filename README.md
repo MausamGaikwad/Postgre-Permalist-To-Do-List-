@@ -1,4 +1,4 @@
-## Permalist
+# Permalist
 Permalist is a simple to-do list application built with Node.js, Express, and PostgreSQL.
 
 ## Description
