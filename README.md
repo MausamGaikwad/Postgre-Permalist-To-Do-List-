@@ -44,7 +44,7 @@ Open your browser and go to `http://localhost:3000`.
 Contributions are welcome! Please open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Credits
 This project was developed as part of the Udemy course [INSERT COURSE NAME] by Angela Yu. Special thanks to Angela Yu for her comprehensive teaching and guidance throughout the course.
