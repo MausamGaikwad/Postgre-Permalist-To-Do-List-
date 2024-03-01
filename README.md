@@ -5,9 +5,9 @@ Permalist is a simple to-do list application built with Node.js, Express, and Po
 Permalist is a minimalist to-do list web application designed to help you stay organized and focused. It allows you to add, edit, and delete tasks effortlessly, providing a clean and intuitive user interface. Permalist ensures your tasks persist even after closing the browser, thanks to its PostgreSQL database backend.
 
 ## Features
-Add, edit, and delete tasks
-Clean and intuitive user interface
-Persistent storage using PostgreSQL database
+* Add, edit, and delete tasks
+* Clean and intuitive user interface
+* Persistent storage using PostgreSQL database
 Installation
 Clone the repository:
 
