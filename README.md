@@ -47,8 +47,8 @@ Contributions are welcome! Please open an issue or submit a pull request.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Credits
-This project was developed as part of the Udemy course [INSERT COURSE NAME] by Angela Yu. Special thanks to Angela Yu for her comprehensive teaching and guidance throughout the course.
+This project was developed as part of the Udemy course [The Complete 2024 Web Development Bootcamp] by Angela Yu. Special thanks to Angela Yu for her comprehensive teaching and guidance throughout the course.
 
 Additional Resources
 Udemy Course: INSERT COURSE NAME
-Angela Yu's Udemy Profile
+[Angela Yu's Udemy Profile](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=KEEPLEARNING#instructor-1)
